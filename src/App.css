@@ -1,0 +1,26 @@
+
+.App{
+  background-color: #fafafa;
+ 
+}
+
+.app_post{
+  padding:20px;
+  display: flex;
+  justify-content: center;
+}
+.app_postright{
+  margin-left: 20px;
+}
+.app_signup{
+  display:flex;
+  flex-direction: column;
+}
+.app_signup > input{
+  padding:5px;
+  margin-bottom: 2px;
+}
+.appmodal_logo{
+  object-fit: contain;
+  height:50px;
+}
